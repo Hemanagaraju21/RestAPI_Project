@@ -1,0 +1,14 @@
+# Ignore compiled output
+target/
+bin/
+*.class
+
+# IDE-specific files
+.project
+.settings/
+.classpath
+.idea/
+*.iml
+
+# Logs and temp files
+*.log
